@@ -1,0 +1,680 @@
+@media screen and (max-width: 2550px) {
+    /* .mycontainer{
+        max-width: 1920px;
+        margin: 0 auto;
+    } */
+}
+
+@media screen and (max-width: 1440px) {
+    .mycontainer{
+        max-width: 1320px;
+        margin: 0 auto;
+    }
+
+    li.nav-link-1 a {
+        font-size: 12px;
+    }
+
+    li.nav-link-2 a {
+        font-size: 12px;
+    }
+
+    li.nav-link-3 a {
+        font-size: 12px;
+    }
+
+    li.nav-link-1 a {
+        font-size: 12px;
+    }
+
+    #main-head .row {
+        padding: 10px 0;
+    }
+
+    .main-logo-img img {
+        width: 290px;
+    }
+
+    .navs2-link-1 a {
+        font-size: 12px;
+    }
+
+    .navs2-link-2 a {
+        font-size: 12px;
+    }
+
+    li.navs2-link-1 {
+        padding-left: 39px;
+    }
+
+    li.navs2-link-2 {
+        padding: 0 0px 0 70px;
+    }
+
+    .contact-main a {
+        font-size: 12px;
+    }
+
+    .main-icons a i {
+        font-size: 12px;
+    }
+
+    .hero-head h2 {
+        font-size: 62px;
+    }
+
+    .hero-head p {
+        font-size: 22px;
+    }
+
+    .hero-links {
+        padding-top: 35px;
+    }
+
+    .hero-links a span {
+        font-size: 18px;
+    }
+
+    .hero-links .fa-arrow-right {
+        font-size: 16px;
+    }
+
+    a.panel-1 {
+        font-size: 16px;
+            padding: 15px 35px 15px 35px;
+    }
+
+    a.panel-2 {
+        font-size: 16px;
+            padding: 15px 42px 15px 42px;
+    }
+
+    a.panel-3 {
+        font-size: 16px;
+            padding: 15px 35px 15px 35px;
+    }
+
+    a.panel-4 {
+        font-size: 16px;
+            padding: 15px 35px 15px 35px;
+    }
+
+    a.panel-5 {
+        font-size: 16px;
+            padding: 15px 35px 15px 35px;
+    }
+
+    .whole h2 {
+        font-size: 62px;
+    }
+
+    .whole p {
+        font-size: 18px;
+    }
+
+    section#wholesale {
+        margin: 120px 0px 80px 0px;
+    }
+
+    .feature-1-text h5{
+        left: 120px;
+    }
+
+    .feature-2-text h5{
+        left: 140px;
+    }
+
+    .feature-3-text h5{
+        left: 120px;
+    }
+
+    button.pull-left.my-prev.slick-arrow i.fa-solid.fa-arrow-left{
+        top: 40rem;
+    }
+
+    button.pull-right.my-next.slick-arrow i.fa-solid.fa-arrow-right {
+        top: 84px;
+    }
+
+    .feature-link a span {
+        font-size: 18px;
+    }
+
+    .feature-link a i {
+        font-size: 18px;
+    }
+
+    .fresh-1 img {
+        height: 700px;
+        width: 650px;
+        bottom: -34rem;
+        left: 3rem;
+    }
+
+    .fresh-2 h3 {
+        font-size: 62px;
+    }
+
+    .fresh-2 p {
+        font-size: 18px;
+    }
+
+    .fresh-2 a {
+        font-size: 18px;
+    }
+
+    section#fresh {
+        height: 620px;
+    }
+
+    .location h5 {
+        font-size: 34px;
+    }
+
+    .support-link {
+        margin: 45px 0 0 0;
+    }
+
+    .busin-data h4 {
+        font-size: 28px;
+    }
+
+    .busin-data p {
+        font-size: 17px;
+    }
+
+    .busin-link {
+        margin: 70px 0 0 0;
+    }
+
+    .busin-2-img img {
+        height: 550px;
+    }
+
+    .busin-2-img img {
+        height: 550px;
+    }
+
+    .busin-2-img img {
+        height: 550px;
+    }
+
+    .busin-3-img img {
+        height: 550px;
+    }
+
+    .busin-4-img img {
+        height: 550px;
+    }
+
+    .busin-2-data h5 {
+        font-size: 32px;
+        left: 124px;
+    }
+
+    .busin-3-data h5 {
+        font-size: 32px;
+        left: 100px;
+    }
+
+    .busin-4-data h5 {
+        font-size: 32px;
+        left: 124px;
+    }
+
+    .supply-head {
+        margin-bottom: 40px;
+    }
+
+    .supply-imgs img {
+        width: 130px;
+    }
+
+    .vegi-text h3 {
+        font-size: 62px;
+        margin-bottom: 35px;
+    }
+
+    .vegi-text a {
+        font-size: 18px;
+    }
+
+    section#vegitable .main-veg-back {
+        height: 470px;
+    }
+
+    .foot-1 ul li a {
+        font-size: 18px;
+    }
+
+    .foot-2 ul li a {
+        font-size: 18px;
+    }
+
+    .foot-3 ul li a {
+        font-size: 18px;
+    }
+
+    .foot-social a i {
+        font-size: 18px;
+    }
+
+    button.pull-left.busin-prev.slick-arrow i {
+        position: absolute;
+        top: 12px;
+        right: 16rem;
+        color: #000;
+        padding: 15px;
+        font-size: 18px;
+        border: 1px solid #545453;
+        border-radius: 33px;
+    }
+
+    button.pull-right.busin-next.slick-arrow i {
+        position: absolute;
+        right: 12rem;
+        bottom: 32rem;
+        font-size: 18px;
+        color: #000;
+        border: 1px solid #545453;
+        padding: 15px;
+        border-radius: 34px;
+    }
+
+    .busin-2-data h5 {
+        font-size: 32px;
+        left: 180px;
+    }
+
+    .busin-3-data h5 {
+        font-size: 32px;
+        left: 130px;
+    }
+
+    .busin-4-data h5 {
+        font-size: 32px;
+        left: 180px;
+    }
+
+    .slick-dots {
+        position: absolute;
+        bottom: 85px!important;
+        display: block;
+        left: 80rem;
+        width: 0%!important;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 1366px) {
+    .mycontainer{
+        max-width: 1140px;
+        margin: 0 auto;
+    }
+
+    li.nav-link-2 {
+        padding: 0 58px;
+    }
+
+    li.navs2-link-2 {
+        padding: 0 0px 0 50px;
+    }
+
+    li.navs2-link-1 {
+        padding-left: 10px;
+    }
+
+    .main-logo-img img {
+        width: 240px;
+    }
+
+    .main-icons a {
+        padding: 0 2px;
+    }
+
+    .main-icons {
+        display: flex;
+    }
+
+    .hero-head h2 {
+        font-size: 52px;
+    }
+
+    .hero-head p {
+        font-size: 19px;
+    }
+
+    .hero-links {
+        padding-top: 15px;
+    }
+
+    .hero-links a span {
+        font-size: 16px;
+    }
+
+    .hero-links .fa-arrow-right {
+        font-size: 14px;
+    }
+
+    a.panel-1 {
+        font-size: 14px;
+        padding: 15px 30px 15px 30px;
+    }
+
+    a.panel-2 {
+        font-size: 14px;
+        padding: 15px 30px 15px 30px;
+    }
+
+    a.panel-3 {
+        font-size: 14px;
+        padding: 15px 30px 15px 30px;
+    }
+
+    a.panel-4 {
+        font-size: 14px;
+        padding: 15px 30px 15px 30px;
+    }
+
+    a.panel-5 {
+        font-size: 14px;
+        padding: 15px 30px 15px 30px;
+    }
+
+    #hero-sec {
+        height: 660px;
+    }
+
+    .whole h2 {
+        font-size: 52px;
+    }
+
+    .whole p {
+        font-size: 16px;
+    }
+
+    section#wholesale {
+        margin: 70px 0px 70px 0px;
+    }
+
+    .feature-cat {
+        padding-bottom: 30px;
+    }
+
+    .feature-cat h3 {
+        font-size: 28px;
+    }
+
+    .feature-1-text h5 {
+        left: 90px;
+    }
+
+    button.pull-left.my-prev.slick-arrow i.fa-solid.fa-arrow-left {
+        font-size: 14px;
+        top: 38rem;
+    }
+
+    button.pull-right.my-next.slick-arrow i.fa-solid.fa-arrow-right {
+        font-size: 14px;
+        top: 52px;
+    }
+
+    .feature-link {
+        margin: 10px 0 0 0;
+    }
+
+    .brands-imgs img {
+        width: 140px;
+    }
+
+    .fresh-2 {
+        margin-top: 4rem;
+    }
+
+    section#fresh {
+        height: 510px;
+    }
+
+    .fresh-1 img {
+        height: 600px;
+        width: 500px;
+        bottom: -29rem;
+        left: 3rem;
+    }
+
+    .fresh-2 h3 {
+        font-size: 52px;
+        padding-bottom: 20px;
+    }
+
+    .fresh-2 p {
+        font-size: 16px;
+        padding-bottom: 30px;
+    }
+
+    .fresh-2 a {
+        font-size: 16px;
+    }
+
+    .clock h5 {
+        font-size: 28px;
+        padding: 10px 0;
+    }
+
+    .delivery h5 {
+        font-size: 28px;
+        padding: 10px 0;
+    }
+
+    .location h5 {
+        font-size: 28px;
+    }
+
+    .order h5 {
+        font-size: 28px;
+        padding: 10px 0;
+    }
+
+    .clock p {
+        font-size: 18px;
+    }
+
+    .order p {
+        font-size: 18px;
+    }
+
+    .location p {
+        font-size: 18px;
+    }
+
+    .delivery p {
+        font-size: 18px;
+    }
+
+    .support-link a span {
+        font-size: 18px;
+    }
+
+    .support-link a i {
+        font-size: 18px;
+    }
+
+    .support-link {
+        margin: 20px 0 0 0;
+    }
+
+    .supply-head h4 {
+        font-size: 28px;
+    }
+
+    .busin-data h4 {
+        font-size: 26px;
+    }
+
+    .busin-data p {
+        font-size: 16px;
+    }
+
+    .busin-link {
+        margin: 40px 0 0 0;
+    }
+
+    .busin-link a span {
+        font-size: 18px;
+    }
+
+    .busin-link a i {
+        font-size: 18px;
+    }
+
+    .busin-2-img img {
+        height: 500px;
+    }
+
+    .busin-3-img img {
+        height: 500px;
+    }
+
+    .busin-4-img img {
+        height: 500px;
+    }
+
+    .busin-2-data h5 {
+        font-size: 30px;
+        left: 124px;
+    }
+
+    .busin-3-data h5 {
+        font-size: 30px;
+    }
+
+    .busin-4-data h5 {
+        font-size: 30px;
+    }
+
+    .vegi-text h3 {
+        font-size: 58px;
+        margin-bottom: 15px;
+    }
+
+    .vegi-text a {
+        font-size: 16px;
+    }
+
+    section#vegitable {
+        margin-bottom: 60px;
+    }
+
+    section#vegitable .main-veg-back {
+        height: 420px;
+    }
+
+    .foot-1 ul li a {
+        font-size: 16px;
+    }
+
+    .foot-2 ul li a {
+        font-size: 16px;
+    }
+
+    .foot-3 ul li a {
+        font-size: 16px;
+    }
+
+    footer#main-footer {
+        background-color: #000;
+        height: 660px;
+    }
+
+    .foot-1 {
+        padding-top: 60px;
+    }
+
+    .foot-2 {
+        padding-top: 60px;
+    }
+
+    .foot-3 {
+        padding-top: 60px;
+    }
+
+    .foot-1 ul {
+        padding-top: 25px;
+    }
+
+    .foot-2 ul {
+        padding-top: 25px;
+    }
+
+    .foot-3 ul {
+        padding-top: 25px;
+    }
+
+    button.pull-right.busin-next.slick-arrow i {
+        position: absolute;
+        right: 12rem;
+        bottom: 28.9rem;
+        font-size: 18px;
+        color: #000;
+        border: 1px solid #545453;
+        padding: 15px;
+        border-radius: 34px;
+    }
+
+    .busin-4-data h5 {
+        left: 156px;
+    }
+
+    .busin-2-data h5 {
+        left: 156px;
+    }
+
+    .busin-3-data h5 {
+        left: 112px;
+    }
+
+    button.pull-left.busin-prev.slick-arrow i {
+        position: absolute;
+        top: 12px;
+        right: 13.5rem;
+        color: #000;
+        padding: 15px;
+        font-size: 18px;
+        border: 1px solid #545453;
+        border-radius: 33px;
+    }
+
+    button.pull-right.busin-next.slick-arrow i {
+        position: absolute;
+        right: 10rem;
+        bottom: 28.9rem;
+        font-size: 18px;
+        color: #000;
+        border: 1px solid #545453;
+        padding: 15px;
+        border-radius: 34px;
+    }
+
+    section#fresh {
+        margin: 12rem auto 10rem auto;
+    }
+
+    section#brands{
+        margin-bottom: 0px;
+    }
+
+    .slick-dots {
+        position: absolute;
+        bottom: 85px!important;
+        display: block;
+        left: 70rem;
+        width: 0%!important;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        text-align: center;
+    }
+}
